@@ -1,4 +1,5 @@
-![Next.js Logo](https://nextjs.org/static/images/logo/nextjs-logo.png) ![Neynar API Logo](https://docs.neynar.com/img/neynar-logo.svg) ![Tailwind CSS Logo](https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+
 
 ## Overview
 
@@ -7,15 +8,9 @@
 FarRank addresses the challenges Farcaster users face in the decentralized social landscape. Our platform provides a comprehensive solution for users to establish credibility, track on-chain activities, and maximize participation in airdrops and community events.
 
 ## Screenshots
-<<<<<<< HEAD
 ![Screenshot 1](Banner/image-1.png)
 ![Screenshot 2](Banner/image-2.png)
 ![Screenshot 3](Banner/image-3.png)
-=======
-![Screenshot 1](Banner/image 1.png)
-![Screenshot 2](Banner/image 2.png)
-![Screenshot 3](Banner/image 3.png)
->>>>>>> fe5d00b (Initial commit of project files)
 
 ## The Problem FarRank Solves
 In an ecosystem where reputation and engagement are everything, Farcaster users often struggle to establish their credibility, track their on-chain activities, and maximize their participation in airdrops and community events.
