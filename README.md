@@ -8,9 +8,20 @@
 FarRank addresses the challenges Farcaster users face in the decentralized social landscape. Our platform provides a comprehensive solution for users to establish credibility, track on-chain activities, and maximize participation in airdrops and community events.
 
 ## Screenshots
-![Screenshot 1](Banner/image-1.png)
-![Screenshot 2](Banner/image-2.png)
-![Screenshot 3](Banner/image-3.png)
+
+<table style="width:100%">
+  <tr>
+    <td style="width:33%; text-align:center;">
+      <img src="Banner/image-1.png" alt="Screenshot 1" style="width:100%;">
+    </td>
+    <td style="width:33%; text-align:center;">
+      <img src="Banner/image-2.png" alt="Screenshot 2" style="width:100%;">
+    </td>
+    <td style="width:33%; text-align:center;">
+      <img src="Banner/image-3.png" alt="Screenshot 3" style="width:100%;">
+    </td>
+  </tr>
+</table>
 
 ## The Problem FarRank Solves
 In an ecosystem where reputation and engagement are everything, Farcaster users often struggle to establish their credibility, track their on-chain activities, and maximize their participation in airdrops and community events.
