@@ -32,4 +32,4 @@ FarRank provides a comprehensive solution by offering:
 Whether you're a casual user verifying airdrop eligibility or a content creator seeking to monetize influence, FarRank simplifies Web3 social interactions. By integrating seamlessly with Farcaster's native features and adding powerful analytics and verification tools, we make it easier to build, track, and grow your presence in the Farcaster ecosystem.
 
 ## Farcaster Mini App
-Explore FarRank on Farcaster: [https://farcaster.xyz/miniapps/Cd4WmQSF2Xct/farrank](https://farcaster.xyz/miniapps/Cd4WmQSF2Xct/farrank)
+Explore FarRank on Farcaster: [https://farcaster.xyz/miniapps/Cd4WmQSF2Xct/farrank](https://farcaster.xyz/miniapps/Cd4WmQSF2Xct/farrank) .
